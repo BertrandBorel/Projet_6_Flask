@@ -1,0 +1,9 @@
+# discussion bdd avec templates
+# nom fichier = data.py
+
+# dans templates = new file, base.html
+# base html = ce qui doit etre copié partout 
+
+# nom de la fonction dans l'url
+
+# alt+z = retour a la ligne dans une requete sql

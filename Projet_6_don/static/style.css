@@ -1,0 +1,21 @@
+#mapage{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    background-color: yellow;
+    padding-bottom: 50px;
+}
+
+
+h1 {
+    border: 2px #080202 solid;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    }
+
+#bouton_don{
+    border: 2px #c52121 solid;
+    text-align: center;
+    }
+
